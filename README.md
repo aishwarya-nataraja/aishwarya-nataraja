@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+I'm currently a senior Computer Engineering student at the University of Maryland, College Park, who is interested in software engineering, computer networking, systems programming, and AI/ML.
 
-<!--
-**aishwarya-nataraja/aishwarya-nataraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Interests
+- Software Engineering
+- Computer Networks & Systems Programming
+- Machine Learning & AI
+- Cloud Computing
 
-Here are some ideas to get you started:
+### Technologies
+- **Languages:** C, Python, Java, SQL, OCaml
+- **Networking:** TCP/IP, UDP, Socket Programming
+- **Tools:** Git, Linux, Docker, Google Cloud Platform, Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+Coming soon!
+
+### Education
+**University of Maryland, College Park**
+B.S. in Computer Engineering | Expected May 2027

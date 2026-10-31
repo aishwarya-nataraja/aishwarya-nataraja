@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aishwarya 👋
 I'm currently a senior Computer Engineering student at the University of Maryland, College Park, who is interested in software engineering, computer networking, systems programming, and AI/ML.
 
 ### Technical Interests
